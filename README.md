@@ -1,6 +1,7 @@
 # PSG Report Screenshot Automation
 
 This is just a little tool I made during my intern.
+/n
 Small Playwright + Python tool for capturing a PSG multi-portfolio report screenshot after login.
 
 ## What It Does
