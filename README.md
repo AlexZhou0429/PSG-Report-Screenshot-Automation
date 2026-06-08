@@ -51,4 +51,3 @@ python3 psg_report_screenshot.py --pause-on-finish
 - Login is manual.
 - The script depends on the current PSG UI and may need selector updates if the page changes.
 - Screenshots are saved to `screenshots/` by default.
-- Do not commit `.playwright-profile/` or sensitive screenshots.
